@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/yogeshrasal252002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yogeshrasal252002" height="30" width="40" /></a>
 <a href="https://instagram.com/yogesh_rasal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogesh_rasal_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yogesh_rasal20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yogesh_rasal20" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yogeshrasal2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yogeshrasal2002" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yogesh_rasal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="yogeshrasal2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yogeshrasal20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yogeshrasal20" height="30" width="40" /></a>
 </p>
 
